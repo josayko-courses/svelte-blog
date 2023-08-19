@@ -10,7 +10,7 @@ published: true
 
 ## Markdown
 
-Hey Friends
+Hey Friends 👋
 
 ```ts
 function greet(name: string) {
