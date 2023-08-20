@@ -3,7 +3,7 @@ export type Category = 'sveltekit' | 'svelte';
 export type Post = {
 	title: string;
 	slug: string;
-	desription: string;
+	description: string;
 	date: string;
 	categories: Category[];
 	published: boolean;
